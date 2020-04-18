@@ -22,7 +22,12 @@ This is version 1.1.0 of the ERT -- the second public release.
 
 For details about the ERT, please refer to the User's Manual in the
 repository under the "Empirical_Roofline_Tool-1.1.0" directory.
+### Use python2 and GCC7.3 with ### 
+```
+apt install -y gunplot 
+pip install enum34
 
+```
 ## Roofline Visualizer ##
 
 The Roofline Visualizer can visualize the roofline performance data
